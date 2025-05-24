@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: snipe-it
+  description: Auto-generated Backstage catalog file
+spec:
+  type: library
+  owner: platform-engr-demo
+  lifecycle: production
+  tags:
+    - unknown
